@@ -1,0 +1,15 @@
+node_modules
+
+#Hardhat files
+cache
+factories
+
+# env
+.env
+
+# temp 
+tmp
+
+# ide
+.idea
+.vscode
